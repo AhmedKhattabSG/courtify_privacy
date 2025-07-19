@@ -21,7 +21,6 @@ Your data is used primarily to enhance app functionality and improve services. W
 
 - Advertising partners and other third parties may use cookies, scripts, and/or web beacons to track user activities on this application to display advertisements and other useful information.
 - Such tracking is done directly by third parties through their own servers and is subject to their own privacy policies. You can opt out of personalized ads in your app settings or through Google's Ad Settings.
-- Our app collects and processes location data to calculate the distance between students and teachers. This feature helps enhance the learning experience by providing location-based functionalities, such as attendance verification and proximity-based interactions.
   
 ## Advertisement and Other Third Parties
 Advertising partners and other third parties may use cookies, scripts, and/or web beacons to track user activities on this application to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. You can opt-out of personalized ads in your app settings or through Google's Ad Settings
@@ -37,7 +36,6 @@ We implement security measures to safeguard your data against unauthorized acces
 
 - All dynamic updates are conducted through encrypted channels to ensure the security of user data and protect it from any hacking attempts.
 - User data is stored securely using encryption and other protective measures. Users can request data deletion by contacting us at hr.mohamed2017@gmail.com.
-- Attendance data is stored securely on our servers or institutional databases.
 - We implement security measures to protect user information from unauthorized access.
 
 ## User Consent
