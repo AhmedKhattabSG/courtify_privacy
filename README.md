@@ -1,6 +1,6 @@
 Privacy Policy for Courtify SmartGate
 
- Courtify SmartGate takes your privacy seriously. To better protect your privacy, we provide this privacy policy notice explaining how your personal information is collected and used. This Privacy Policy applies to Dr smart Attendance SmartGate, developed by Smart Gate
+ Courtify SmartGate takes your privacy seriously. To better protect your privacy, we provide this privacy policy notice explaining how your personal information is collected and used. This Privacy Policy applies to Courtify SmartGate, developed by Smart Gate
 
 # Collection of Routine Information
 We collect information to improve your experience and offer personalized features.
